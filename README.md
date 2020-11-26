@@ -1,2 +1,2 @@
 # SOHCAHTOA
-Solves sohcahtoa type problems
+Solves simple sohcahtoa type problems
